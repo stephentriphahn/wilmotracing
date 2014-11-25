@@ -1,0 +1,19 @@
+.navbar-nav{
+        float:right;
+}
+
+body {
+	background-color: #A9A99F;
+}
+
+div#welcome{
+	background-color:#EEEEEE;
+	border-radius:20px;
+	box-shadow:10px 10px 15px;
+}
+
+div#main-pic{
+	box-shadow:10px 10px 15px;
+	border: 2px #B80D18;
+}
+

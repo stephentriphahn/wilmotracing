@@ -1,0 +1,13 @@
+<div class="container">
+	<div class="row">
+   	<div class="col-lg-7 pull-right" id="welcome">
+      	<h1>Welcome</h1>
+        		<p>
+				Welcome to the Official Website of Patrick Wilmot and Wilmot Racing! This is the place to keep up with Pat Wilmot as he strives 					for his dreams to become a professional race car driver. Learn all about Patrick and the team on the Bio page. Keep up to date 					with Patrick's career by reading his News page and viewing his photos from the latest race. Also, feel free to check out the 					Sponsorship page and see who is supporting this rising star.
+		  		</p>
+   	</div>
+		<div id="main-pic">
+			<img src="images/main-pic.JPG" />
+		</div>
+	</div>
+</div>
