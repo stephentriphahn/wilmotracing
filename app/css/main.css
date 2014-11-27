@@ -17,3 +17,37 @@ div#main-pic{
 	border: 2px #B80D18;
 }
 
+.footer {
+	position:fixed;
+	bottom:0;
+}
+
+ul#footer-list li{
+	float:left;
+	padding:15px 5px 5px 5px;
+}
+
+div#bio-background {
+	float:right;
+	margin-right:30px;
+	height:500px;
+	width:335px;
+	box-shadow:10px 10px 15px;	
+	background-image: url(../images/pat-bio.jpg);
+}
+
+div.bio-content {
+	max-width:600px;
+}
+
+div.car-image {
+	width:480px;
+	height:323px;
+	margin-right:25px;
+	margin-bottom:20px;
+	box-shadow:10px 10px 15px;
+	background-image:url(../images/car-bio.JPG);
+	float:left;
+}
+
+
